@@ -7,3 +7,6 @@ Complete Anto, Blynk 1.0, Dashboard, Database (Firebase, Google Sheet, MySql), M
 
 - Robotics Ready
 Includes high-level blocks for motor movement and sensor management (DHT11/22, Ultrasonic) with clear, full-text commands.
+
+**Download JTIDE**
+www2.nsru.ac.th/tung/jtide
